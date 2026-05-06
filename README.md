@@ -61,3 +61,9 @@ Check out [our documentation](https://docs.astro.build) or jump into our [Discor
 ## Credit
 
 This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+
+
+rewriting the homepage for your topic
+creating a newborn-care blog post template
+adding category/tags support
+improving SEO and social sharing metadata

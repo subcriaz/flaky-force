@@ -1,6 +1,11 @@
 ---
 title: 'First post'
 description: 'Lorem ipsum dolor sit amet'
+category: 'Newborn Health'
+tags:
+  - Newborn
+  - Feeding
+  - Sleep
 pubDate: 'Jul 08 2022'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
