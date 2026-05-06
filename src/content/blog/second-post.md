@@ -1,7 +1,12 @@
 ---
 title: 'Second post'
 description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 15 2022'
+category: 'Newborn Clothing'
+tags:
+  - Newborn Cloth
+  - Milk
+  - Enviornment
+pubDate: 'Jul 15 2025'
 heroImage: '../../assets/blog-placeholder-4.jpg'
 ---
 
